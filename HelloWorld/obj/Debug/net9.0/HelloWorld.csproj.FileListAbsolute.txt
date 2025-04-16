@@ -1,0 +1,14 @@
+C:\Users\Deepthisha\OneDrive\Deepthisha\UNI\2ND YEAR\PROG 2A\HelloWorld\HelloWorld\bin\Debug\net9.0\HelloWorld.exe
+C:\Users\Deepthisha\OneDrive\Deepthisha\UNI\2ND YEAR\PROG 2A\HelloWorld\HelloWorld\bin\Debug\net9.0\HelloWorld.deps.json
+C:\Users\Deepthisha\OneDrive\Deepthisha\UNI\2ND YEAR\PROG 2A\HelloWorld\HelloWorld\bin\Debug\net9.0\HelloWorld.runtimeconfig.json
+C:\Users\Deepthisha\OneDrive\Deepthisha\UNI\2ND YEAR\PROG 2A\HelloWorld\HelloWorld\bin\Debug\net9.0\HelloWorld.dll
+C:\Users\Deepthisha\OneDrive\Deepthisha\UNI\2ND YEAR\PROG 2A\HelloWorld\HelloWorld\bin\Debug\net9.0\HelloWorld.pdb
+C:\Users\Deepthisha\OneDrive\Deepthisha\UNI\2ND YEAR\PROG 2A\HelloWorld\HelloWorld\obj\Debug\net9.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deepthisha\OneDrive\Deepthisha\UNI\2ND YEAR\PROG 2A\HelloWorld\HelloWorld\obj\Debug\net9.0\HelloWorld.AssemblyInfoInputs.cache
+C:\Users\Deepthisha\OneDrive\Deepthisha\UNI\2ND YEAR\PROG 2A\HelloWorld\HelloWorld\obj\Debug\net9.0\HelloWorld.AssemblyInfo.cs
+C:\Users\Deepthisha\OneDrive\Deepthisha\UNI\2ND YEAR\PROG 2A\HelloWorld\HelloWorld\obj\Debug\net9.0\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\Deepthisha\OneDrive\Deepthisha\UNI\2ND YEAR\PROG 2A\HelloWorld\HelloWorld\obj\Debug\net9.0\HelloWorld.dll
+C:\Users\Deepthisha\OneDrive\Deepthisha\UNI\2ND YEAR\PROG 2A\HelloWorld\HelloWorld\obj\Debug\net9.0\refint\HelloWorld.dll
+C:\Users\Deepthisha\OneDrive\Deepthisha\UNI\2ND YEAR\PROG 2A\HelloWorld\HelloWorld\obj\Debug\net9.0\HelloWorld.pdb
+C:\Users\Deepthisha\OneDrive\Deepthisha\UNI\2ND YEAR\PROG 2A\HelloWorld\HelloWorld\obj\Debug\net9.0\HelloWorld.genruntimeconfig.cache
+C:\Users\Deepthisha\OneDrive\Deepthisha\UNI\2ND YEAR\PROG 2A\HelloWorld\HelloWorld\obj\Debug\net9.0\ref\HelloWorld.dll
